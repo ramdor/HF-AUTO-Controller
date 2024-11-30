@@ -1,4 +1,4 @@
-# HF-AUTO-Controller
+# HF-AUTO Controller
 Software to control the Palstar HF-AUTO (1800w)
 
 Free Use Software Licence Agreement
