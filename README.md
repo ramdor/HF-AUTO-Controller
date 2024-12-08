@@ -1,5 +1,8 @@
 # HF-AUTO Controller
-Software to control the Palstar HF-AUTO (1800w)
+
+Watch this video for all the info on how to use it : [HERE](https://youtu.be/oW61unXk96E)
+
+## Software to control the Palstar HF-AUTO (1800w)
 
 Free Use Software Licence Agreement
 
