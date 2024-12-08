@@ -1,2 +1,2 @@
-https://www.virustotal.com/gui/file/4c65ac101818a1bdade9c8c993b17d604ac68f9522ea02aa0c84e6de1b22e085?nocache=1
-https://www.virustotal.com/gui/file/a625873b5577f1ff6840e3d28625431c3c76a02692aa154ce083495731670620?nocache=1
+https://www.virustotal.com/gui/file/60ebf7847e6f9fc859231eb723e0a002a2bf373979efe27c1c5df73e56b8d0f8
+https://www.virustotal.com/gui/file/83aded2e81148745c46156609d3e7776063f3746851ed58279bc9a1a37c837ad
