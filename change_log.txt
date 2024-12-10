@@ -1,0 +1,35 @@
+﻿MW0LGE (c) 2024 - Blitter8 Ltd.
+
+/* changelog
+
+v1.0.3
+    - [add] frequency is now sent to the tuner if antenna changes. [Send frequency to Tuner] needs to be checked for this to happen. It will also happen if the antenna is changed from the front of the hardware
+    - [add] support added for TX tracking (split etc) when using OmniRig / TCPIP/cat
+    - [change] delay added for flight time so that the tuner has time to act on the messages that are sent to it. Currently this is 5 times the ms taken for the serial data to be sent at the given baud rate/stopbits/databits etc
+    - [change] frequency is not sent to the tuner when it is in setup or bypass
+
+v1.0.2
+    - [add] weather support added using https://openweathermap.org/api . Antenna will move to configure port based on weather. You can obtain a free API key on their website for current weather. Just make an account and you should find it there
+    - [add] antenna can be configured to move to a port after idle time. Any use of the tuner will reset this time. Any use of HF-AUTO controller will reset this time
+    - [add] weather icon shown on main window if weather support in use
+    - [add] support for ExpertElectonics range of radios via TCI
+    - [add] OmniRig support to provide support for other systems
+    - [add] TCPIP/Cat support, with poll frequency options
+    - [add] Options to simulate HasRF and Frequency for older firmwares that do not provide it (v2.36 for example)
+    - [add] code added to work around the issue where tuner does not select correct C/L for first frequency sent to it after a power cycle
+
+v1.0.1
+    - [add] frequency will be sent to the tuner, bypassing filters, if [Force SetFreq] button pressed
+    - [add] option to not update tuner frequency if in manual mode unless the force button is used
+    - [add] comport will be disconnected/reconnescted at system sleep/restore
+    - [add] on successful load of config, a backup is created. If issue loading the backup will be tried
+    - [add] added licence to install folder
+    - [add] added change log to install folder
+    - [add] hold CTRL at start if you have lost the window. It will reposition on main screen
+    - [change] improved warning messages if com port fails to open, and they will now be forced on top
+    - [fix] fixed issue where comport might not be in the format of COMn where n is a number. Would cause crash
+    - [info] settings stored in 'Documents\Blitter8\HF-AUTO' for those wanting to take a backup
+
+v1.0.0 - initial release
+
+*/
