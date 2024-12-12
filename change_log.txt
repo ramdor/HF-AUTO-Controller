@@ -2,6 +2,9 @@
 
 /* changelog
 
+v1.0.4
+    - [change] frequency is now sent in BYPASS mode again, as preventing this caused some issues. It is still prevented in when in setup
+
 v1.0.3
     - [add] frequency is now sent to the tuner if antenna changes. [Send frequency to Tuner] needs to be checked for this to happen. It will also happen if the antenna is changed from the front of the hardware
     - [add] support added for TX tracking (split etc) when using OmniRig / TCPIP/cat
