@@ -2,6 +2,11 @@
 
 /* changelog
 
+v1.0.5
+    - [add] added info icon/tooltip to the antenna frequency change section in the advanced config page
+    - [add] selecting show from the icon tray icon menu, or double clicking the icon tray icon, will bring to top the main window
+    - [change] when initially connected to the tuner, send the frequency change twice. This fixes the issue where the first frequency sent to the tuner recovers the incorrect C/L values, probably caused by an issue with the firmware
+
 v1.0.4
     - [change] frequency is now sent in BYPASS mode again, as preventing this caused some issues. It is still prevented in when in setup
 
