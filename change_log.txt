@@ -2,6 +2,12 @@
 
 /* changelog
 
+v1.0.6
+    - [change] single click on task tray icon will show main window
+    - [change] supports the new Thetis tci message format for tx_frequency_thetis
+    - [fix] typo in settings - thanks gw4ogo for the report
+    - [fix] fixed some issues that would prevent the window from being shown if minimise has been used, or windows sleep
+
 v1.0.5
     - [add] added info icon/tooltip to the antenna frequency change section in the advanced config page
     - [add] selecting show from the icon tray icon menu, or double clicking the icon tray icon, will bring to top the main window
