@@ -2,6 +2,10 @@
 
 /* changelog
 
+v1.0.7
+    - [add] option to send frequency to tuner when in Bypass mode (default off)
+    - [add] dummy load support. An antenna can be chosen to switch to when the dummy load button is pressed. Bypass is also selected
+
 v1.0.6
     - [change] single click on task tray icon will show main window
     - [change] supports the new Thetis tci message format for tx_frequency_thetis

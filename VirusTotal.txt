@@ -1,2 +1,4 @@
-https://www.virustotal.com/gui/file/23c7df5e1fa4f7ca745c391277067feda3795b2151a3e9701f153633b28dc3cd
-https://www.virustotal.com/gui/file/b802544e4cc459d2b773702b3df811a8fc180599e94edb0ac8ded5d5cf023c14
+https://www.virustotal.com/gui/file/95b0ba4605c0d23ddd01c6a6d7fba785a05348dee1b54c6df4a62c500052bb56
+https://www.virustotal.com/gui/file/59cd2b3dac75be6b1c20dff505a2ec7a4d5c80441ba5823e0add13bceb03591d
+
+MW0LGE
