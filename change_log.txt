@@ -2,6 +2,10 @@
 
 /* changelog
 
+v1.0.8
+    - [fix] switching off dummy load will apply tuner updates if required
+    - [fix] fix issue where frequency not sent to radio when returning from a band that was set to bypass
+
 v1.0.7
     - [add] option to send frequency to tuner when in Bypass mode (default off)
     - [add] dummy load support. An antenna can be chosen to switch to when the dummy load button is pressed. Bypass is also selected
