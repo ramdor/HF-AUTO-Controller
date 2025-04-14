@@ -2,6 +2,9 @@
 
 /* changelog
 
+v1.0.9
+    - [fix] rain icon now different to drizzle icon, previously the two states looked the same. In line with OpenWeather api (https://openweathermap.org/weather-conditions)
+
 v1.0.8
     - [fix] switching off dummy load will apply tuner updates if required
     - [fix] fix issue where frequency not sent to radio when returning from a band that was set to bypass
