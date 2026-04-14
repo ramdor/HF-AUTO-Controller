@@ -1,4 +1,4 @@
-https://www.virustotal.com/gui/file/5fc8b4f36455465c14fb630e5a8b643ca3874547556b8f928e32189760ae5348
-https://www.virustotal.com/gui/file/8bb8dfe71e094d0efc95ce4ad58fffbadd33328ac1d46cb0ab17391eb1087e15
+msi - https://www.virustotal.com/gui/file/03cbd5c4a6a6c3171f109cc214568cc3933b340025c4ec1c13690e7aa6ae2b77?nocache=1
+zip - https://www.virustotal.com/gui/file/f4235225225b6a108595377b769e8674314a8019068fc3e0c9017241c7110d8a?nocache=1
 
 MW0LGE
