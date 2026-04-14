@@ -2,6 +2,10 @@
 
 /* changelog
 
+v1.0.10
+    - [add] support of new Thetis 2.10.3.14 TCI command, tx_frequency_ex
+    - [fix] a number of fixes related to swr display
+
 v1.0.9
     - [fix] rain icon now different to drizzle icon, previously the two states looked the same. In line with OpenWeather api (https://openweathermap.org/weather-conditions)
 
